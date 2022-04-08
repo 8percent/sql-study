@@ -2,8 +2,14 @@
 
 강의 일정과 스터디 일정은 [위키](https://github.com/8percent/sql-study/wiki) 페이지로!
 
-# 멤버 
+# 교재
+<img src="http://image.yes24.com/goods/22744867/XL" width="100px;" alt=""/><br />
 
+# 킥오프 스터디 전경
+<img src="https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/277589245_10224467795275012_5495230221490718330_n.jpg?stp=dst-jpg_p180x540&_nc_cat=102&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=Gjc4NLVeu7oAX9r-mKL&_nc_ht=scontent-ssn1-1.xx&oh=00_AT-6P_TWFnMoen44iog59PzVsXfXspBZYkZdylesfjg4PQ&oe=6254EBD4" width="500px;" alt=""/><br />
+
+
+### 멤버(회사가 제공할 수 있는 최고의 복지는 훌륭한 동료)
 <table>
   <tr>
     <td align="center">
